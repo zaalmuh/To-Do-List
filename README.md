@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-#To Do List
+# To Do List
 
 Aplikasi sederhana ini berfungsi sebagai pencatat to-do list dengan sistem CRUD yang memanfaatkan localstorage
